@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Home</title>
-    <link>/posts/</link>
+    <link>https://imylyanyk.github.io/posts/</link>
     <description>Recent content in Posts on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 30 Nov 2016 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/posts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://imylyanyk.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Booking Hack-Man: Show Us What You Bot</title>
-      <link>/posts/booking/</link>
+      <link>https://imylyanyk.github.io/posts/booking/</link>
       <pubDate>Wed, 30 Nov 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/booking/</guid>
+      <guid>https://imylyanyk.github.io/posts/booking/</guid>
       <description>Programming competition overview</description>
     </item>
     
     <item>
       <title>Clarifying Clarifai Champions</title>
-      <link>/posts/clarifai/</link>
+      <link>https://imylyanyk.github.io/posts/clarifai/</link>
       <pubDate>Fri, 26 Aug 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/clarifai/</guid>
+      <guid>https://imylyanyk.github.io/posts/clarifai/</guid>
       <description>My exciting journey into developer evangelism</description>
     </item>
     
     <item>
       <title>Bots will conquer the world!</title>
-      <link>/posts/tg_bots_medium/</link>
+      <link>https://imylyanyk.github.io/posts/tg_bots_medium/</link>
       <pubDate>Wed, 13 Apr 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/tg_bots_medium/</guid>
+      <guid>https://imylyanyk.github.io/posts/tg_bots_medium/</guid>
       <description>Building telegram bots with ease</description>
     </item>
     
     <item>
       <title>How to keep calm and win hackathons</title>
-      <link>/posts/winning_hackathon/</link>
+      <link>https://imylyanyk.github.io/posts/winning_hackathon/</link>
       <pubDate>Tue, 12 Jan 2016 00:00:00 +0000</pubDate>
       
-      <guid>/posts/winning_hackathon/</guid>
+      <guid>https://imylyanyk.github.io/posts/winning_hackathon/</guid>
       <description>My take on hackathons</description>
     </item>
     
     <item>
       <title>How I graduated your university. The motivational speech</title>
-      <link>/posts/graduation/</link>
+      <link>https://imylyanyk.github.io/posts/graduation/</link>
       <pubDate>Tue, 23 Jun 2015 00:00:00 +0000</pubDate>
       
-      <guid>/posts/graduation/</guid>
+      <guid>https://imylyanyk.github.io/posts/graduation/</guid>
       <description>University times were great</description>
     </item>
     
     <item>
       <title>LNU Penguins on ACM ICPC Finals</title>
-      <link>/posts/lnu_penguins/</link>
+      <link>https://imylyanyk.github.io/posts/lnu_penguins/</link>
       <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
       
-      <guid>/posts/lnu_penguins/</guid>
+      <guid>https://imylyanyk.github.io/posts/lnu_penguins/</guid>
       <description></description>
     </item>
     
