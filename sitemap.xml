@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>/posts/booking/</loc>
+    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/</loc>
+    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/</loc>
+    <lastmod>2016-11-30T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/clarifai/</loc>
+    <lastmod>2016-08-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/tg_bots_medium/</loc>
+    <lastmod>2016-04-13T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/winning_hackathon/</loc>
+    <lastmod>2016-01-12T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/graduation/</loc>
+    <lastmod>2015-06-23T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/posts/lnu_penguins/</loc>
+    <lastmod>2015-05-19T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>/tags/</loc>
+  </url>
+  
+</urlset>
